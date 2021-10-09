@@ -1,0 +1,1 @@
+I'm using this repository to showcase how anyone case use Colab to learn or use Apache Spark. Doing this, a user won't have to jump hoops to download it on their own systems and use their own computing power. 
